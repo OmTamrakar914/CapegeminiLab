@@ -7,6 +7,10 @@ public class Calculator{
         Scanner sc = new Scanner(System.in);
 
         System.out.println("--------Calculator--------");
+      
+    public static int add(int a, int b){
+          return a+b;
+    }
 
 
 
